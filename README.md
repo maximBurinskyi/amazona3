@@ -28,3 +28,9 @@ Lessoms:
    10. create route for /api/products
    11. return products
    12. run npm start
+8. Fetch products from backend
+9. set proxy in package.json
+10. npm install axious
+11. use state hook
+12. use effect hook
+13. use reducer hook
