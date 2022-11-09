@@ -1,6 +1,6 @@
 # MERN AMAZONA
 
-Lessoms:
+Plan:
 
 1. Intro
 2. Istal tools
